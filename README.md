@@ -53,7 +53,7 @@ This Android Studio project demonstrates basic **CRUD (Create, Read, Update, Del
 
 ### ADDING NEW CONTENT
 
-   <img src="https://github.com/user-attachments/assets/1aeb799c-19d0-4ea7-bfb6-5ec615784693" width="48%" alt="Add screen 1" />
+   <img src="https://github.com/user-attachments/assets/1aeb799c-19d0-4ea7-bfb6-5ec615784693" height="400" alt="Add screen 1" />
   <img src="https://github.com/user-attachments/assets/3ea789c8-c569-4200-854a-5982529e6e5d"  height="400" alt="Add screen 2" />
 
 
