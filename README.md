@@ -37,22 +37,26 @@ This Android Studio project demonstrates basic **CRUD (Create, Read, Update, Del
    - Click **"Create Database"** (Start in **test mode** for development).   
 
 
-##📱 App Screenshots (Optional)
-ALL CONTENT FETCHED FROM THE DATABASE
-![image](https://github.com/user-attachments/assets/6b405628-db7c-4773-852d-1d151acbff4a)
+## 📱 App Screenshots
 
-UPDATING CONTENT
-![image](https://github.com/user-attachments/assets/cb93c3db-1811-4ad8-a2ca-b430018c0b09)
-![image](https://github.com/user-attachments/assets/8f911ddd-fc43-4586-9ac7-6c08bfd75d1e)
+### ALL CONTENT FETCHED FROM THE DATABASE
+<img src="https://github.com/user-attachments/assets/6b405628-db7c-4773-852d-1d151acbff4a" width="400" alt="Database content view" />
 
-DELETING CONTENT
-First entry deleted
-![image](https://github.com/user-attachments/assets/6118d801-7d6d-4e06-9b01-b160412c7b2c)
+### UPDATING CONTENT
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/cb93c3db-1811-4ad8-a2ca-b430018c0b09" width="48%" alt="Update screen 1" />
+  <img src="https://github.com/user-attachments/assets/8f911ddd-fc43-4586-9ac7-6c08bfd75d1e" width="48%" alt="Update screen 2" />
+</div>
 
-ADDING NEW CONTENT
-![image](https://github.com/user-attachments/assets/1aeb799c-19d0-4ea7-bfb6-5ec615784693)
-![image](https://github.com/user-attachments/assets/3ea789c8-c569-4200-854a-5982529e6e5d)
+### DELETING CONTENT
+<img src="https://github.com/user-attachments/assets/6118d801-7d6d-4e06-9b01-b160412c7b2c" width="400" alt="After deletion" />
+<em>First entry deleted</em>
 
+### ADDING NEW CONTENT
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/1aeb799c-19d0-4ea7-bfb6-5ec615784693" width="48%" alt="Add screen 1" />
+  <img src="https://github.com/user-attachments/assets/3ea789c8-c569-4200-854a-5982529e6e5d" width="48%" alt="Add screen 2" />
+</div>
 
 
 
