@@ -40,7 +40,7 @@ This Android Studio project demonstrates basic **CRUD (Create, Read, Update, Del
 ## 📱 App Screenshots
 
 ### ALL CONTENT FETCHED FROM THE DATABASE
-<img src="https://github.com/user-attachments/assets/6b405628-db7c-4773-852d-1d151acbff4a" width="400" alt="Database content view" />
+<img src="https://github.com/user-attachments/assets/6b405628-db7c-4773-852d-1d151acbff4a" height="400" alt="Database content view" />
 
 ### UPDATING CONTENT
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
